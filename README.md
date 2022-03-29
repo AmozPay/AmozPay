@@ -16,25 +16,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-louis&theme=dark&show_icons=true&layout=compact&count_private=true&include_all_commits=true&custom_title=Lucas' Stats&bg_color=30,782D45,010C23&border_color=ffffff&text_color=ffffff&icon_color=010C23" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmozPay&theme=dark&show_icons=true&layout=compact&count_private=true&include_all_commits=true&custom_title=Amoz' Stats&bg_color=30,782D45,010C23&border_color=ffffff&text_color=ffffff&icon_color=010C23" width="49%" />
 </p>
 
 
 <div>
   <img src="./images/workspace_banner.svg" /><br/><br/>
   <p align='center'>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Manjaro-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-4FC7FF?style=for-the-badge&logo=windows&logoColor=white" />
-     <img src="https://img.shields.io/badge/Asus ZenBook-0b3466?style=for-the-badge&logoColor=ffffff&logo=asus" />
+     <img src="https://img.shields.io/badge/ThinkPad E15-0b3466?style=for-the-badge&logoColor=ffffff&logo=asus" />
   </p>
   <p align='center'>
-    <img src="https://img.shields.io/badge/intel core I7 10th GEN-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nvidia GTX 1650-205111?style=for-the-badge&logo=nvidia&logoColor=white" />
-  </p>
-  <p align='center'>
-    <img src="https://img.shields.io/badge/Xiaomi Mi 34 BHR5116-E95420?style=for-the-badge&logo=xiaomi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Samsung Galaxy S20 Ultra-606467?style=for-the-badge&logo=samsung&logoColor=white" />
+    <img src="https://img.shields.io/badge/intel core I5 10th GEN-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   </p>
 </div>
 
@@ -46,11 +41,11 @@
     <a href="https://www.linkedin.com/in/lucas-louis/">
       <img src="https://img.shields.io/badge/LinkedIn-0373AF?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/lucas-louis">
+    <a href="https://github.com/AmozPay">
       <img src="https://img.shields.io/badge/GitHub-504E4E?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:lucas.louis@epitech.eu">
-      <img src="https://img.shields.io/badge/lucas.louis@epitech.eu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <a href="mailto:amoz.pay@epitech.eu">
+      <img src="https://img.shields.io/badge/amoz.pay@epitech.eu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     </a>
   </p>
 </div>
