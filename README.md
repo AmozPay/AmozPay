@@ -112,6 +112,7 @@ If you're looking for an intern or part timer, I might be who you're looking for
 ## Devops
   <p align='center'>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=Terraform&logoColor=white" />
     <img alt="Elastic" src="https://img.shields.io/badge/Elastic-F04E98?style=for-the-badge&logo=elastic&logoColor=" />
     <img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible&logoColor=white" />
