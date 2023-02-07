@@ -11,9 +11,8 @@
 <p align='center'>
     IT student at <a>Epitech</a>, Fullstack / DevOps developper,  Resident at <a href=https://github.com/PoCInnovation>PoC Innovation</a>
 </p>
-<a href="https://github.com/AmozPay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amozpay&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmozPay&theme=dark&show_icons=true&layout=compact&count_private=true&include_all_commits=true&custom_title=Amoz' Stats&bg_color=30,782D45,010C23&border_color=ffffff&text_color=ffffff&icon_color=010C23" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmozPay&count_private=true" width="49%" />
 </p>
 <h2>
     About me
