@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-EF4135?style=for-the-badge" width="50" height='5px' />
 </p>
 <p align='center'>
-    IT student at <a>Epitech</a>, Fullstack / DevOps developper,  Resident at <a href=https://github.com/PoCInnovation>PoC Innovation</a>
+    3rd year IT student at <a>Epitech</a>, Fullstack / DevOps developper,  Resident at <a href=https://github.com/PoCInnovation>PoC Innovation</a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmozPay&count_private=true&show_icons=true&theme=transparent" width="49%" />
@@ -26,6 +26,9 @@ I served a 2 year benevolent mission in Greece and Cyprus, where I had the oppor
 <h2>
 Currently working on🔭
 </h2>
+- OtterLib, an ECS game engine
+- Whanos, a automatic build and deploy system based on Jenkins, Ansible and Kubernetes
+- RustOSLife, a personnal project to learn how to build an OS from scratch, using Rust. The OS must be powerfull enough to run a game of life on it 👽
 - Inter Planetary Computing, a project built on top of <a href="https://aleph.im">Aleph</a> and <a href="https://ipfs.io">IPFS</a>. <a href="https://github.com/PoCInnovation/InterPlanetaryCloud">More...</a>
 
 
@@ -82,12 +85,7 @@ If you're looking for an intern or part timer, I might be who you're looking for
 </div>
 
 #### 🌱 I’m currently learning ...
-- Solidity
-- Next.js
 - Rust
-
-## I want to learn
-- Kubernetes
 
 ## Dev environment
 <div>
@@ -118,7 +116,7 @@ If you're looking for an intern or part timer, I might be who you're looking for
     <img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible&logoColor=white" />
     <img alt="OVH" src="https://img.shields.io/badge/Ovh-000E9C?style=for-the-badge&logo=ovh&logoColor=white" />
     <img alt="Digital Ocean" src="https://img.shields.io/badge/Digital Ocean-0069FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-	<img alt="GitHub Actions" src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-gray?style=for-the-badge&logo=jenkins&logoColor=red" />
   </p>
 
