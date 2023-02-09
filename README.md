@@ -26,9 +26,10 @@ I served a 2 year benevolent mission in Greece and Cyprus, where I had the oppor
 <h2>
 Currently working on🔭
 </h2>
-- OtterLib, an ECS game engine
-- Whanos, a automatic build and deploy system based on Jenkins, Ansible and Kubernetes
-- RustOSLife, a personnal project to learn how to build an OS from scratch, using Rust. The OS must be powerfull enough to run a game of life on it 👽
+- [pro] Aleph.im, a decentralized p2p computing solution
+- [school] Whanos, a automatic build and deploy system based on Jenkins, Ansible and Kubernetes <br/>
+- [school] OtterLib, an ECS game engine <br/>
+- [personal] RustOSLife, a personnal project to learn how to build an OS from scratch, using Rust. The OS must be powerfull enough to run a game of life on it 👽 <br/>
 - Inter Planetary Computing, a project built on top of <a href="https://aleph.im">Aleph</a> and <a href="https://ipfs.io">IPFS</a>. <a href="https://github.com/PoCInnovation/InterPlanetaryCloud">More...</a>
 
 
