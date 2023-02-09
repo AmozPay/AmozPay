@@ -26,17 +26,17 @@ I served a 2 year benevolent mission in Greece and Cyprus, where I had the oppor
 <h2>
 Currently working on🔭
 </h2>
-- [pro] Aleph.im, a decentralized p2p computing solution
-- [school] Whanos, a automatic build and deploy system based on Jenkins, Ansible and Kubernetes <br/>
-- [school] OtterLib, an ECS game engine <br/>
-- [personal] RustOSLife, a personnal project to learn how to build an OS from scratch, using Rust. The OS must be powerfull enough to run a game of life on it 👽 <br/>
-- Inter Planetary Computing, a project built on top of <a href="https://aleph.im">Aleph</a> and <a href="https://ipfs.io">IPFS</a>. <a href="https://github.com/PoCInnovation/InterPlanetaryCloud">More...</a>
+- Aleph.im, a decentralized p2p computing solution <strong>[pro]</strong><br/>
+- Whanos, an automatic build and deploy system based on Jenkins, Ansible and Kubernetes <strong>[school]</strong> <br/>
+- OtterLib, an ECS game engine <strong>[school]</strong><br/>
+- RustOSLife, an OS built from scratch, using Rust. The OS shall be powerfull enough to run a game of life on it 👽 <strong>[side-project]</strong> <br/>
 
 
  <h2>I’m looking to collaborate on ... 👯</h2>
- - Projects evolving around Blockchain and Decentralization.
-
-If you're looking for an intern or part timer, I might be who you're looking for.
+ - Devops / System administrations projects
+ - Backend server applications
+ - Anything Rust
+ - If you use Dagger.io, I would love to work with you. If you don't, let's see how it could improve pipelines
 
 
 ## Programing Languages
@@ -85,9 +85,6 @@ If you're looking for an intern or part timer, I might be who you're looking for
 
 </div>
 
-#### 🌱 I’m currently learning ...
-- Rust
-
 ## Dev environment
 <div>
   <p align='center'>
@@ -102,7 +99,7 @@ If you're looking for an intern or part timer, I might be who you're looking for
 ## Databases
 <div>
   <p align='center'>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="postgresql" src="https://img.shields.io/badge/Postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/Mongo DB-42B883?style=for-the-badge&logo=mongodb&logoColor=white" />
   </p>
 </div>
@@ -153,11 +150,8 @@ If you're looking for an intern or part timer, I might be who you're looking for
     <a href="https://github.com/AmozPay">
       <img src="https://img.shields.io/badge/GitHub-504E4E?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:amoz.pay@epitech.eu">
+    <a href="mailto:amozpay.pro@gmail.com">
       <img src="https://img.shields.io/badge/amoz.pay@epitech.eu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    </a>
-    <a href="https://amozpay.dev">
-      <img src="https://img.shields.io/badge/website-002222?style=for-the-badge" />
     </a>
   </p>
 </div>
