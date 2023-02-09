@@ -39,7 +39,7 @@ If you're looking for an intern or part timer, I might be who you're looking for
 
 
 ## Programing Languages
-<div>
+<div style="display: table-column;">
 
   <p align='center'>
     <img alt="C/C++" src="https://img.shields.io/badge/C/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
