@@ -33,9 +33,9 @@ Currently working on🔭
 
 
  <h2>I’m looking to collaborate on ... 👯</h2>
+ - Anything Rust or C++ <br/>
  - Devops / System administrations projects <br/>
  - Backend server applications, micro services... <br/>
- - Anything Rust or C++ <br/>
  - If you use Dagger.io, I would love to work with you. If you don't, let's see how it could improve pipelines <br/>
 
 
