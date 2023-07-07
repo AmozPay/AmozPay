@@ -12,7 +12,7 @@
     3rd year IT student at <a>Epitech</a>, Fullstack / DevOps developper,  Resident at <a href=https://github.com/PoCInnovation>PoC Innovation</a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmozPay&count_private=true&show_icons=true&theme=transparent" width="49%" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=AmozPay&count_private=true&show_icons=true&theme=transparent" width="49%" /> -->
 </p>
 <h2>
     About me
