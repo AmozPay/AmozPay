@@ -1,4 +1,45 @@
 
+# Hi there, I'm AmozPay 👋
+
+![GitHub followers](https://img.shields.io/github/followers/AmozPay?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AmozPay?style=social)
+
+Welcome to my GitHub profile! I'm a passionate developer with interests in various technologies and programming languages. Here's a bit about me:
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning and exploring new technologies.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with advanced algorithms and system design.
+- 💬 Ask me about web development, Python, JavaScript, and more.
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess.
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+## 📈 GitHub Stats
+
+![AmozPay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmozPay&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-twitter-profile)
+[![Personal Website](https://img.shields.io/badge/Website-333333?style=flat&logo=google-chrome)](https://yourwebsite.com)
+
+Thank you for visiting my profile! Feel free to look around and reach out if you have any questions.
+
 <h1 align='center'>
   Hi, I'm Amoz 👨‍💻
 </h1>
